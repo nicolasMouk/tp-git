@@ -10,3 +10,5 @@ def substraction(a,b):
 def division(a,b):
     result= a//b
     return result
+
+piepline = "pipeline modif"
